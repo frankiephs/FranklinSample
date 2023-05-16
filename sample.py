@@ -1,0 +1,3 @@
+sample = "x"
+
+print(sample)
