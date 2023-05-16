@@ -1,3 +1,7 @@
-sample = "hello"
+x = "franklin"
 
-print(sample)
+def func():
+  x = "alex"
+func()
+
+print(x)
