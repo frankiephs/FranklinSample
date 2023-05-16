@@ -1,3 +1,3 @@
-sample = "x"
+sample = "hello"
 
 print(sample)
